@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Jx-UI',
   description: 'Just playing around',
-  base: '/moocUI/',
+  base: '/jx-ui/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
