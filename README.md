@@ -2,7 +2,7 @@
 # jx-ui 组件库
 
 ### 组件文档
-https://zack921.github.io/moocUI/
+https://635566381.github.io/jx-ui/
 
 ### 快速开始
 
